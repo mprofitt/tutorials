@@ -7,7 +7,7 @@ namespace HelloWorldApplication
         {
             /* my first program in C# */
             Console.WriteLine("Hello World");
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
